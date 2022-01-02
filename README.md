@@ -1,5 +1,5 @@
 # Cloud Projects 4 ur resume by AW
-![header image](./images/Resume builder.png)
+![header image](./images/Resume%20builder.png)
 
 ### Experience is a big part of landing a cloud job.  
 
