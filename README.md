@@ -7,6 +7,6 @@ This repo provides you with step by step projects you can build to enhanse your 
 
 Build as many as you would like on Google Cloud.
 
- [1. Build a static website of Google Cloud](static-website/Instructions.md)
+ [1. Build a static website of Google Cloud](static-website/Instructions.md)  
  [2. Build a scalable LAMP stack](LAMP/Instruction-lampstack.md)
 
